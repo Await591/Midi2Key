@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "device": null,
+  "velocity_threshold": 0,
+  "mode": "tap",
+  "tap_ms": 50,
+  "send_mode": "both",
+  "mappings": [
+    {
+      "note": 60,
+      "key": "y",
+      "enabled": true
+    },
+    {
+      "note": 62,
+      "key": "u",
+      "enabled": true
+    },
+    {
+      "note": 64,
+      "key": "i",
+      "enabled": true
+    },
+    {
+      "note": 65,
+      "key": "o",
+      "enabled": true
+    },
+    {
+      "note": 67,
+      "key": "p",
+      "enabled": true
+    },
+    {
+      "note": 69,
+      "key": "h",
+      "enabled": true
+    },
+    {
+      "note": 71,
+      "key": "j",
+      "enabled": true
+    },
+    {
+      "note": 72,
+      "key": "k",
+      "enabled": true
+    },
+    {
+      "note": 74,
+      "key": "l",
+      "enabled": true
+    },
+    {
+      "note": 76,
+      "key": "semicolon",
+      "enabled": true
+    },
+    {
+      "note": 77,
+      "key": "n",
+      "enabled": true
+    },
+    {
+      "note": 79,
+      "key": "m",
+      "enabled": true
+    },
+    {
+      "note": 81,
+      "key": "comma",
+      "enabled": true
+    },
+    {
+      "note": 83,
+      "key": "period",
+      "enabled": true
+    },
+    {
+      "note": 84,
+      "key": "slash",
+      "enabled": true
+    }
+  ]
+}
